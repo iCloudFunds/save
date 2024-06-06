@@ -1,0 +1,24 @@
+.title {
+  text-align: center;
+}
+.pay {
+  margin-left: 15px;
+}
+.paybutton {
+  color: white;
+  background-color: red;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 3px;
+  border: none;
+  transition: color 0.2s, background-color 0.2s;
+
+}
+.paybutton:hover {
+  color: red;
+  background-color: white;
+}
+.note {
+  color: red;
+  font-weight: bold;
+}

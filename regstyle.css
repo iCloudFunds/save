@@ -1,0 +1,49 @@
+
+
+
+.firstname {
+  margin-left: 15px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
+
+.lastname {
+  margin-left: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
+
+.phone {
+  margin-left: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
+.age {
+  margin-left: 15px;
+}
+.plan {
+  font-size: larger;
+  font-weight: bold;
+  text-align: center;
+  color: blue;}
+  .welcome {
+    text-align: justify;
+    margin-left: 10px;
+  }
+  button {
+    color: blue;
+    font-weight: bold;
+  }
+  .plan1 {
+    margin-left: 70px;
+    margin-top: 0px;
+    color: blue;
+    font-weight: bold;
+  }
+  .note {
+    color: red;
+    font-weight: bold;
+  }

@@ -1,0 +1,43 @@
+.pagename {
+  margin-left: 50px;
+  color: black;
+}
+.i {
+  color: skyblue;
+  font-style: italic;
+  font-size: larger;
+}
+
+
+.plan {
+  font-size: larger;
+  font-weight: bold;
+  text-align: center;
+  color: blue;
+}
+.Get {
+  margin-left: ;
+  text-align: center;
+  background-color: blue;
+  color: aqua;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  font-size: larger;
+  box-shadow: rgba(0,0,0,10);
+transition: opacity 0.3s, box-shadow 0.3s, background-color 0.3s,
+}
+.Get:hover {
+ color: blue;
+  background-color:aqua;
+  box-shadow: 5px 5px 5px rgb(1, 1, 1, 0.3);
+}
+.but {
+  text-align: center;
+}
+.welcome {
+  text-align: justify;
+  margin-left: 20px;
+  margin-right: 20px;
+}
